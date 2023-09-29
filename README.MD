@@ -6,7 +6,7 @@ Simple code that allows you to bait discord users into watching a video of your 
 
 ## Setup Guide
 
-Video: [https://youtu.be/MDSscZjzXb4?si=RLzn4sQqREmcJSUq&t=698](https://youtu.be/MDSscZjzXb4?si=RLzn4sQqREmcJSUq&t=698)
+Video: [Ruin Friendships with these 9 Discord Tricks!](https://youtu.be/MDSscZjzXb4?si=RLzn4sQqREmcJSUq&t=698)
 
 Text Guide:
 
